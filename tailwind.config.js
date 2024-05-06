@@ -15,6 +15,7 @@ export const theme = {
       darkGray: 'var(--dark-gray)',
       midGray: 'var(--mid-gray)',
       lightGray: 'var(--light-gray)',
+      glassmorph: 'var(--card-glassmorph)'
     }
   },
 };
